@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/exercicio 4
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/exercicio 4.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/exercicio 4.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/exercicio 4.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/exercicio 4.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/ref/exercicio 4.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/bin/Debug/net5.0/exercicio 4.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/ref/exercicio 4.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios corrigidos/obj/Debug/net5.0/exercicio 4.genruntimeconfig.cache
