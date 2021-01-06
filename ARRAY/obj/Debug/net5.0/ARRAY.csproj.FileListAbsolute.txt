@@ -1,0 +1,16 @@
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ARRAY
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ARRAY.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ARRAY.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ARRAY.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ARRAY.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ref/ARRAY.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/bin/Debug/net5.0/ARRAY.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ref/ARRAY.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/ARRAY/obj/Debug/net5.0/ARRAY.genruntimeconfig.cache
