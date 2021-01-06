@@ -1,0 +1,16 @@
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.csprojAssemblyReference.cache
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.AssemblyInfoInputs.cache
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.AssemblyInfo.cs
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.csproj.CoreCompileInputs.cache
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/calculadora
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/calculadora.deps.json
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/calculadora.runtimeconfig.json
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/calculadora.runtimeconfig.dev.json
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/calculadora.dll
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/ref/calculadora.dll
+/home/darth-vader/gafanhoto-c/calculadora/bin/Debug/net5.0/calculadora.pdb
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.dll
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/ref/calculadora.dll
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.pdb
+/home/darth-vader/gafanhoto-c/calculadora/obj/Debug/net5.0/calculadora.genruntimeconfig.cache
