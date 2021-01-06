@@ -1,0 +1,32 @@
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/Tabuada
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/Tabuada.deps.json
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/Tabuada.runtimeconfig.json
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/Tabuada.runtimeconfig.dev.json
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/Tabuada.dll
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/ref/Tabuada.dll
+/home/darth-vader/gafanhoto-c/Tabuada/bin/Debug/net5.0/Tabuada.pdb
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.csprojAssemblyReference.cache
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.AssemblyInfoInputs.cache
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.AssemblyInfo.cs
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.csproj.CoreCompileInputs.cache
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.dll
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/ref/Tabuada.dll
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.pdb
+/home/darth-vader/gafanhoto-c/Tabuada/obj/Debug/net5.0/Tabuada.genruntimeconfig.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/Tabuada
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/Tabuada.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/Tabuada.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/Tabuada.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/Tabuada.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/ref/Tabuada.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/bin/Debug/net5.0/Tabuada.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/ref/Tabuada.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/C_Sharp/Tabuada/obj/Debug/net5.0/Tabuada.genruntimeconfig.cache
