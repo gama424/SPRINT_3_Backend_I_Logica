@@ -1,0 +1,32 @@
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.deps.json
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.runtimeconfig.json
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.runtimeconfig.dev.json
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.dll
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/ref/exercicio3.dll
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.pdb
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.csprojAssemblyReference.cache
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.AssemblyInfoInputs.cache
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.AssemblyInfo.cs
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.csproj.CoreCompileInputs.cache
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.dll
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/ref/exercicio3.dll
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.pdb
+/home/darth-vader/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.genruntimeconfig.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.deps.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.runtimeconfig.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.runtimeconfig.dev.json
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/ref/exercicio3.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/bin/Debug/net5.0/exercicio3.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.csprojAssemblyReference.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.AssemblyInfoInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.AssemblyInfo.cs
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.csproj.CoreCompileInputs.cache
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/ref/exercicio3.dll
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.pdb
+/home/darth-vader/Documentos/Desenvolvimento de Sistemas/gafanhoto-c/exercicios_/exercicio3/obj/Debug/net5.0/exercicio3.genruntimeconfig.cache

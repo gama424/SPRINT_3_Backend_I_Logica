@@ -11,7 +11,7 @@ namespace exercicio_4
             Console.WriteLine("Digite o ano atual");
             int anoAtual = int.Parse(Console.ReadLine());
 
-            Console.Write("Digite o seu ano de nascimento");
+            Console.Write("Digite o teu ano de nascimento");
             int anoNascimento = int.Parse(Console.ReadLine());
 
             //processamento

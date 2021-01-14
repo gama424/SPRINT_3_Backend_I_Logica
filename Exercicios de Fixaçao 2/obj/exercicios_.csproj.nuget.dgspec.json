@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/darth-vader/gafanhoto-c/exercicios_/exercicios_.csproj": {}
+  },
+  "projects": {
+    "/home/darth-vader/gafanhoto-c/exercicios_/exercicios_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/darth-vader/gafanhoto-c/exercicios_/exercicios_.csproj",
+        "projectName": "exercicios_",
+        "projectPath": "/home/darth-vader/gafanhoto-c/exercicios_/exercicios_.csproj",
+        "packagesPath": "/home/darth-vader/.nuget/packages/",
+        "outputPath": "/home/darth-vader/gafanhoto-c/exercicios_/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/darth-vader/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
